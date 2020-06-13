@@ -12,6 +12,7 @@ CIVI_TYPES = (
 )
 # Valid US State Choices
 US_STATES = (
+    ('AB', 'Alberquerque'),
     ('AL', 'Alabama'),
     ('AK', 'Alaska'),
     ('AZ', 'Arizona'),
